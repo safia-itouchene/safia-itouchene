@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm ITOUCHENE Safia</h1>
 <h3 align="center">A Fullstack web developer</h3>
 
-
+- 🌼 22 years old INFJ
+   
 - 🎓 I’m currently a computer science student at **Université des Sciences et de la Technologie Houari Boumediene Algeria**
 
 - 🌱 I’m currently learning **Nodejs , Express**
