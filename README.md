@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ITOUCHENE Safia</h1>
+<h1 align="center">Hi 👋, I'm Safia  ITOUCHENE </h1>
 <h3 align="center">A Fullstack web developer</h3>
 
 - 🌼 22 years old INFJ
