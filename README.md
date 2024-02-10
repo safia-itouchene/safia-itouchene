@@ -1,66 +1,83 @@
-<h1 align="center">Hi 👋, I'm Safia  ITOUCHENE </h1>
+AGRG: Awesome Github Readme Generator
+
+Awesome Github Readme Generator
+Sign In
+
+Awesome Github Profile README.md Generator
+
+Star This Repository
+Fork This Repository
+
+Back To Edit
+
+Copy Markdown
+
+Download Markdown
+
+Download Backup
+
+Preview Markdown
+<h1 align="center">Hi 👋, I'm Safia ITOUCHENE</h1>
 <h3 align="center">A Fullstack web developer</h3>
-
-- 🌼 22 years old INFJ
-   
-- 🎓 I’m a computer science student at **Université des Sciences et de la Technologie Houari Boumediene Algeria**
-
-- 🌱 I’m currently learning **Nodejs , Express**
-
-- 💬 Ask me about **React , C and Php**
-
-- 📫 How to reach me **safiaitouchene@gmail.com**
-
-<h1 align="left">🛠 Languages and Tools:</h1>
-<ul>
-<li> <h2>👩‍💻 Languages</h2>
-<blockquote>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp&nbsp&nbsp
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp&nbsp&nbsp
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> &nbsp&nbsp&nbsp
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp&nbsp&nbsp
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp&nbsp&nbsp
-</p>
-</blockquote>
-</li>
-<li><h2>⚡ Database</h2>
- <blockquote>
-  <p align="left"> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp&nbsp&nbsp
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-  </blockquote>
-</li>
-<li><h2>🚀 Frameworks</h2>
-<blockquote>
-<p align="left"> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>&nbsp&nbsp&nbsp
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp&nbsp&nbsp
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> &nbsp&nbsp&nbsp
-</a> &nbsp&nbsp&nbsp
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp&nbsp&nbsp
-  </p>
-</blockquote>
-</li>
-</ul>
-
-<h1>📊 Github stats</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safia-itouchene&label=Profile%20views&color=0e75b6&style=flat" alt="safia-itouchene" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safia-itouchene" alt="safia-itouchene" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safia-itouchene&theme=dracula" alt="safia-itouchene" /></a> </p>
 
+- 🎓 I’m a computer science student at **Université des Sciences et de la Technologie Houari Boumediene Algeria**
+- 👩‍💻 I’m currently learning **Laravel**
+- 💬 Ask me about **React , C and Php **
+- 📫 How to reach me ** safiaitouchene@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safia-itouchene&show_icons=true&locale=en&layout=compact" alt="safia-itouchene" /></p>
+<div> <a href="https://www.linkedin.com/in/safia-itouchene" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/safia-itouchene" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto: safiaitouchene@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/safia-itouchene" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="safia-itouchene" height="30" width="40" /></a><a href="https://www.youtube.com/c/beinprogramming" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="beinprogramming" height="30" width="40" /></a><a href="https://codepen.io/safia-itouchene" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codepen.svg" alt="safia-itouchene" height="30" width="40" /></a></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safia-itouchene&show_icons=true&locale=en" alt="safia-itouchene" /></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/microsoft-sql-server-logo.svg" alt="Microsoft Sql Server" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safia-itouchene&" alt="safia-itouchene" /></p>
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safia-itouchene&hide_progress=true&theme=dracula" alt=safia-itouchene />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=safia-itouchene&show_icons=true&locale=en&theme=dracula" alt="safia-itouchene" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=safia-itouchene&theme=dracula" alt="safia-itouchene" /></p>
+
+Support
+Are you using the tool and happy with it to create your GitHub Repository?
+
+Please Don't Forget to Star This Repository
+FlowBite Logo
+Github Readme Generator
+RESOURCES
+Github Readme Generator
+Source Code
+FOLLOW US
+Github
+Linkedin
+LEGAL
+Privacy Policy
+Terms & Conditions
+© 2023 . All Rights Reserved.
+Made ❤️ by Sashen Jayathilaka
+Facebook page
+Instagram page
+Twitter page
+GitHub account
+Dribbble account
