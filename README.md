@@ -1,22 +1,3 @@
-AGRG: Awesome Github Readme Generator
-
-Awesome Github Readme Generator
-Sign In
-
-Awesome Github Profile README.md Generator
-
-Star This Repository
-Fork This Repository
-
-Back To Edit
-
-Copy Markdown
-
-Download Markdown
-
-Download Backup
-
-Preview Markdown
 <h1 align="center">Hi 👋, I'm Safia ITOUCHENE</h1>
 <h3 align="center">A Fullstack web developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safia-itouchene&label=Profile%20views&color=0e75b6&style=flat" alt="safia-itouchene" /> </p>
@@ -58,26 +39,3 @@ Preview Markdown
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=safia-itouchene&show_icons=true&locale=en&theme=dracula" alt="safia-itouchene" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=safia-itouchene&theme=dracula" alt="safia-itouchene" /></p>
-
-Support
-Are you using the tool and happy with it to create your GitHub Repository?
-
-Please Don't Forget to Star This Repository
-FlowBite Logo
-Github Readme Generator
-RESOURCES
-Github Readme Generator
-Source Code
-FOLLOW US
-Github
-Linkedin
-LEGAL
-Privacy Policy
-Terms & Conditions
-© 2023 . All Rights Reserved.
-Made ❤️ by Sashen Jayathilaka
-Facebook page
-Instagram page
-Twitter page
-GitHub account
-Dribbble account
