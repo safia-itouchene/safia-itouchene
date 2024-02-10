@@ -5,22 +5,22 @@
 ### <div align="center">A Fullstack web developer 🚀</div>  
   
 
-🎓 I’m a computer science student at Université des Sciences et de la Technologie Houari Boumediene Algeria😘  
+🎓 I’m a computer science student at  <b>Université des Sciences et de la Technologie Houari Boumediene Algeria </b>
   
 
-👩‍💻 I’m currently learning Laravel  
+👩‍💻 I’m currently learning <b>Laravel</b>.
   
 
-💬 Ask me about React , C and Php   
+💬 Ask me about  <b>React , C and Php  </b>
   
 
-📫 How to reach me  safiaitouchene@gmail.com  
+📫 How to reach me  <b>safiaitouchene@gmail.com  </b> 
   
 
 <br/>  
 
 
-## My Skill Set  
+## My Skill  
 
 
 ### Frontend   
