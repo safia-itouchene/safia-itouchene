@@ -1,5 +1,5 @@
 
-## <div align="center">IHi 👋, I'm Safia ITOUCHENE</div>  
+## <div align="center">Hi 👋, I'm Safia ITOUCHENE</div>  
   
 
 ### <div align="center">A Fullstack web developer 🚀</div>  
