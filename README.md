@@ -14,7 +14,7 @@
 💬 Ask me about  <b>React , C and Php  </b>
   
 
-📫 How to reach me  <b>safiaitouchene@gmail.com  </b> 
+
   
 
 <br/>  
