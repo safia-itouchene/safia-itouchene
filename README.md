@@ -23,13 +23,13 @@
 ### 🌐 Web Development  
 <div align="center">  
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" height="28"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" height="28"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="JavaScript" height="28"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="28"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="28"/>
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" height="28"/>
   <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" height="28"/>
   <img src="https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white" alt="Material UI" height="28"/>
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" height="28"/>
 </div>  
 
 ---
