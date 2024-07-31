@@ -13,8 +13,9 @@
 ### 🖥️ Programming Languages  
 <div align="center">  
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="28"/>
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" height="28"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" height="28"/> 
-    <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" alt="C" height="28"/>
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" alt="C" height="28"/>
 </div>  
 
 ---
@@ -43,7 +44,6 @@
 
 ### 🛠️ Other Skills  
 <div align="center">  
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" height="28"/>
   <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress" height="28"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="28"/>
 </div>  
