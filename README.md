@@ -45,19 +45,8 @@
 
 ### 🛠️ Other Skills  
 <div align="center">  
-  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress" height="28"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="28"/>
+ <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="28"/>
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" height="28"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" height="28"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white" alt="Linux" height="28"/>
 </div>  
-
----
-
-### ⚡ Fun Fact  
-- I'm always eager to learn new technologies and tools. Currently diving deep into <b>Next.js</b> and <b>Tailwind CSS</b> to level up my frontend game!
-
-<br/>  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Safia's GitHub stats" />
-</div>
-
-<br/>
