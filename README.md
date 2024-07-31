@@ -2,12 +2,8 @@
 
 ### <div align="center">A Fullstack Web Developer 🚀</div>  
 
-🎓 I’m a computer science student at <b>Université des Sciences et de la Technologie Houari Boumediene, Algeria</b>  
-
+🎓 I’m a software engineering student at <b>Université des Sciences et de la Technologie Houari Boumediene, Algeria</b>
 👩‍💻 I’m currently learning <b>Laravel, Next.js, and Tailwind CSS</b>  
-
-💬 Ask me about <b>React, C, and PHP</b>  
-
 ---
 
 ### 🖥️ Programming Languages  
