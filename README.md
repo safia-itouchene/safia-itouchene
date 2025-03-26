@@ -1,14 +1,14 @@
 ## <div align="center">Hi 👋, I'm Safia ITOUCHENE</div>  
 
-### <div align="center">A Fullstack Web Developer 🚀</div>  
+### <div align="center">A Software Engineer & Fullstack Web Developer 🚀</div>  
 
-🎓 I’m a software engineering student at <b>Université des Sciences et de la Technologie Houari Boumediene, Algeria</b>
+🎓 I’m a software engineer from <b>Université des Sciences et de la Technologie Houari Boumediene, Algeria</b>
 
-👩‍💻 I’m currently learning <b>Laravel, Next.js, and Tailwind CSS</b>  
+👩‍💻 I’m currently learning <b>Data Analysis and Machine Learning</b>  
 
 ---
 
-### 🖥️ Programming Languages  
+### 🎥 Programming Languages  
 <div align="center">  
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="28"/>
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" height="28"/>
@@ -34,7 +34,18 @@
 
 ---
 
-### 🗄️ Databases  
+### 🟢 Data Science & Machine Learning  
+<div align="center">  
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" height="28"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" height="28"/>
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" alt="Matplotlib" height="28"/>
+  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn" height="28"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" height="28"/>
+</div>  
+
+---
+
+### 🟡 Databases  
 <div align="center">  
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="28"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="28"/>
@@ -51,4 +62,3 @@
    <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress" height="28"/>
    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" height="28"/>
 </div>
-
