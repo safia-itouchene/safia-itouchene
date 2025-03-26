@@ -45,7 +45,7 @@
 
 ---
 
-###🗄️ Databases
+### 🗄️ Databases
 <div align="center">  
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="28"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="28"/>
