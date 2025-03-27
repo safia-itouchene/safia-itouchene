@@ -41,17 +41,18 @@
   <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" alt="Matplotlib" height="28"/>
   <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn" height="28"/>
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" height="28"/>
+  <img src="https://img.shields.io/badge/Data%20Warehouse-FFC107?style=flat&logo=databricks&logoColor=white" height="28"/> 
 </div>  
 
 ---
 
 ### 🗄️ Databases
-<div align="center">  
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="28"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="28"/>
-  <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle" height="28"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" height="28"/>
-</div>  
+<div align="center"> 
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="28"/> 
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="28"/> 
+  <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle" height="28"/> 
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" height="28"/> 
+</div>
 
 ---
 
