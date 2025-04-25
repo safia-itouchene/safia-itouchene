@@ -41,6 +41,9 @@
   <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" alt="Matplotlib" height="28"/>
   <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn" height="28"/>
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" height="28"/>
+  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" height="28"/>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" height="28"/>
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" height="28"/>
   <img src="https://img.shields.io/badge/Data%20Warehouse-FFC107?style=flat&logo=databricks&logoColor=white" height="28"/> 
 </div>  
 
