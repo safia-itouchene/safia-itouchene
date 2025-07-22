@@ -1,7 +1,7 @@
 ## <div align="center">Hi 👋, I'm Safia ITOUCHENE</div>  
 
 ### <div align="center">A Software Engineer & Fullstack Web Developer 🚀</div>  
-### <div align="center">Based in Algiers, Algeria</div>
+<div align="center">Based in Algiers, Algeria</div>
 
 🎓 I’m a Software Engineering graduate from <b>Université des Sciences et de la Technologie Houari Boumediene, Algeria</b>
 
