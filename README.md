@@ -1,69 +1,128 @@
-## <div align="center">Hi, I'm Safia ITOUCHENE</div>  
+<div align="center">
 
-### <div align="center">A Software Engineer & Fullstack Web Developer 🚀</div>  
+<img src="./assets/header.svg" alt="Safia Itouchene - Software Engineer and Fullstack Web Developer" width="100%"/>
 
+<br/><br/>
 
-🎓 I’m a Software Engineering graduate from <b>Université des Sciences et de la Technologie Houari Boumediene, Algeria</b>
+<img src="./assets/terminal.svg" alt="Animated terminal: Safia Itouchene, Software Engineering graduate, learning Data Analysis, Machine Learning and AI Automation" width="85%"/>
 
-👩🏻‍💻 I’m currently learning <b>Data Analysis and Machine Learning</b>  
+<br/><br/>
 
----
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-7C3AED?style=for-the-badge" alt="Open to collaboration"/>
+<img src="https://komarev.com/ghpvc/?username=safia-itouchene&label=Profile%20views&color=EC4899&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/safia-itouchene?label=Followers&style=for-the-badge&logo=github&color=06B6D4" alt="GitHub followers"/>
 
-### 💻 Programming Languages  
-<div align="center">  
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="28"/>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" height="28"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" height="28"/> 
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" alt="C" height="28"/>
-</div>  
-
----
-
-### 🌐 Web Development  
-<div align="center">  
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" height="28" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" height="28"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="JavaScript" height="28"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="28"/>
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" height="28"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="28"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="28"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" height="28"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" height="28"/>
-  <img src="https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white" alt="Material UI" height="28"/>
-</div>  
-
----
-
-### 🤖 Data Science & Machine Learning  
-<div align="center">  
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" height="28"/>
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" height="28"/>
-  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" alt="Matplotlib" height="28"/>
-  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn" height="28"/>
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" height="28"/>
-  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" height="28"/>
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" height="28"/>
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" height="28"/>
-  <img src="https://img.shields.io/badge/Data%20Warehouse-FFC107?style=flat&logo=databricks&logoColor=white" height="28"/> 
-</div>  
-
----
-
-### 🗄️ Databases
-<div align="center"> 
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="28"/> 
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="28"/> 
-  <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle" height="28"/> 
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" height="28"/> 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" height="6" alt=""/>
 
-### 🛠️ Other Skills  
-<div align="center"> <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="28"/> <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white" alt="Linux" height="28"/> <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress" height="28"/>  <img src="https://img.shields.io/badge/-n8n-EF4B4C?style=flat&logo=n8n&logoColor=white" alt="n8n" height="28"/> <img src="https://img.shields.io/badge/-AI%20Automation-7D3C98?style=flat&logo=automattic&logoColor=white" alt="AI Automation" height="28"/> <img src="https://img.shields.io/badge/-AI%20Agency-0E76A8?style=flat&logo=openai&logoColor=white" alt="AI Agency" height="28"/> <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white" alt="Blender" height="28"/> </div>
+## 👩🏻‍💻 About Me
 
+- 🎓 Software Engineering graduate from **Université des Sciences et de la Technologie Houari Boumediene (USTHB), Algeria** 🇩🇿
+- 💼 Fullstack developer building modern web apps with **React, Next.js, Laravel and TypeScript**
+- 📊 Currently learning **Data Analysis & Machine Learning**
+- ⚙️ Exploring **AI automation** and agent workflows with **n8n**
+- 🎨 Into **3D modeling with Blender** in my spare time
+- 🤝 Open to collaborations, freelance work and interesting projects
 
+<img src="./assets/divider.svg" width="100%" height="6" alt=""/>
 
+## 🛠️ Tech Stack
 
+<div align="center">
 
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=py,php,java,c&perline=8" alt="Python, PHP, Java, C"/>
+
+### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,laravel,html,css,bootstrap,tailwind,materialui&perline=10" alt="React, Next.js, JavaScript, TypeScript, Laravel, HTML, CSS, Bootstrap, Tailwind CSS, Material UI"/>
+
+### 🤖 Data Science & Machine Learning
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow,keras,pytorch,opencv&perline=10" alt="Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, OpenCV"/>
+<br/>
+<img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/-Data%20Warehouse-FFC107?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Warehouse"/>
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=10" alt="MySQL, PostgreSQL, MongoDB"/>
+<br/>
+<img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+
+### 🧰 Tools & Other Skills
+<img src="https://skillicons.dev/icons?i=git,linux,wordpress,blender&perline=10" alt="Git, Linux, WordPress, Blender"/>
+<br/>
+<img src="https://img.shields.io/badge/-n8n-EF4B4C?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/-AI%20Automation-7D3C98?style=for-the-badge&logo=automattic&logoColor=white" alt="AI Automation"/>
+<img src="https://img.shields.io/badge/-AI%20Agency-0E76A8?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agency"/>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" height="6" alt=""/>
+
+## 📊 GitHub Stats
+
+<!-- These cards are generated by .github/workflows/stats.yml and stored in /assets,
+     so they never depend on third-party stat servers. -->
+<div align="center">
+
+<img src="./assets/stats-card.svg" alt="GitHub stats" width="49%"/>
+<img src="./assets/languages-card.svg" alt="Most used languages" width="49%"/>
+
+<br/>
+
+<img src="./assets/streak-card.svg" alt="Contribution streak" width="99%"/>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" height="6" alt=""/>
+
+## 🐍 Contribution Snake
+
+<!-- Generated by .github/workflows/snake.yml (publishes to the "output" branch). -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/safia-itouchene/safia-itouchene/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/safia-itouchene/safia-itouchene/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/safia-itouchene/safia-itouchene/output/github-snake.svg" />
+  </picture>
+</div>
+
+<!--
+  ===== OPTIONAL: FEATURED PROJECTS =====
+  Remove this comment wrapper and fill in your best repositories.
+
+<img src="./assets/divider.svg" width="100%" height="6" alt=""/>
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| [**Project name**](https://github.com/safia-itouchene/REPO_NAME) | One sentence about what it does | `React` `Laravel` |
+| [**Project name**](https://github.com/safia-itouchene/REPO_NAME) | One sentence about what it does | `Python` `TensorFlow` |
+-->
+
+<img src="./assets/divider.svg" width="100%" height="6" alt=""/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/safia-itouchene"><img src="https://img.shields.io/badge/GitHub-safia--itouchene-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<!--
+  Uncomment and edit these to add your contact links:
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+-->
+
+<br/><br/>
+
+💬 *"Code is like humor. When you have to explain it, it's bad."*
+
+⭐ If you like my work, feel free to leave a star on my repositories!
+
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" height="6" alt=""/>

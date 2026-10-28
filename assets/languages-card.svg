@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="224" viewBox="0 0 495 224" role="img" aria-label="Most used languages">
+<title>Most used languages</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#1a1033"/>
+  </linearGradient>
+  <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#7C3AED"/><stop offset="0.5" stop-color="#EC4899"/><stop offset="1" stop-color="#06B6D4"/>
+  </linearGradient>
+</defs>
+<style>
+.t{font:700 17px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#c4b5fd}
+.num{font:700 26px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+.lbl{font:500 12px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#9ca3af}
+.fade{opacity:0;animation:up .6s ease-out forwards}
+@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+</style>
+<rect x="1" y="1" width="493" height="222" rx="14" fill="url(#bg)" stroke="url(#bd)" stroke-width="1.5"/>
+<text x="25" y="37" class="t">Most Used Languages</text>
+<text x="25" y="110" class="lbl">Waiting for the first workflow run…</text>
+</svg>

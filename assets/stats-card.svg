@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="224" viewBox="0 0 495 224" role="img" aria-label="Safia&#x27;s GitHub stats">
+<title>Safia&#x27;s GitHub stats</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#1a1033"/>
+  </linearGradient>
+  <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#7C3AED"/><stop offset="0.5" stop-color="#EC4899"/><stop offset="1" stop-color="#06B6D4"/>
+  </linearGradient>
+</defs>
+<style>
+.t{font:700 17px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#c4b5fd}
+.num{font:700 26px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+.lbl{font:500 12px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#9ca3af}
+.fade{opacity:0;animation:up .6s ease-out forwards}
+@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+</style>
+<rect x="1" y="1" width="493" height="222" rx="14" fill="url(#bg)" stroke="url(#bd)" stroke-width="1.5"/>
+<text x="25" y="37" class="t">Safia’s GitHub Stats</text>
+<g class="fade" style="animation-delay:0.15s"><rect x="25.0" y="62" width="140" height="64" rx="10" fill="#161b22" stroke="#30363d"/><rect x="25.0" y="76" width="4" height="36" rx="2" fill="#FBBF24"/><text x="45.0" y="99" class="num" fill="#FBBF24">–</text><text x="45.0" y="117" class="lbl">Total Stars</text></g>
+<g class="fade" style="animation-delay:0.27s"><rect x="177.5" y="62" width="140" height="64" rx="10" fill="#161b22" stroke="#30363d"/><rect x="177.5" y="76" width="4" height="36" rx="2" fill="#A78BFA"/><text x="197.5" y="99" class="num" fill="#A78BFA">–</text><text x="197.5" y="117" class="lbl">Commits</text></g>
+<g class="fade" style="animation-delay:0.39s"><rect x="330.0" y="62" width="140" height="64" rx="10" fill="#161b22" stroke="#30363d"/><rect x="330.0" y="76" width="4" height="36" rx="2" fill="#34D399"/><text x="350.0" y="99" class="num" fill="#34D399">–</text><text x="350.0" y="117" class="lbl">Pull Requests</text></g>
+<g class="fade" style="animation-delay:0.51s"><rect x="25.0" y="138" width="140" height="64" rx="10" fill="#161b22" stroke="#30363d"/><rect x="25.0" y="152" width="4" height="36" rx="2" fill="#F87171"/><text x="45.0" y="175" class="num" fill="#F87171">–</text><text x="45.0" y="193" class="lbl">Issues</text></g>
+<g class="fade" style="animation-delay:0.63s"><rect x="177.5" y="138" width="140" height="64" rx="10" fill="#161b22" stroke="#30363d"/><rect x="177.5" y="152" width="4" height="36" rx="2" fill="#60A5FA"/><text x="197.5" y="175" class="num" fill="#60A5FA">–</text><text x="197.5" y="193" class="lbl">Public Repos</text></g>
+<g class="fade" style="animation-delay:0.75s"><rect x="330.0" y="138" width="140" height="64" rx="10" fill="#161b22" stroke="#30363d"/><rect x="330.0" y="152" width="4" height="36" rx="2" fill="#F472B6"/><text x="350.0" y="175" class="num" fill="#F472B6">–</text><text x="350.0" y="193" class="lbl">Followers</text></g>
+</svg>

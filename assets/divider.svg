@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="6" viewBox="0 0 800 6" preserveAspectRatio="none" role="presentation" aria-hidden="true">
+  <defs>
+    <linearGradient id="flow" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="2400" y2="0">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset="0.1111" stop-color="#EC4899"/>
+      <stop offset="0.2222" stop-color="#06B6D4"/>
+      <stop offset="0.3333" stop-color="#7C3AED"/>
+      <stop offset="0.4444" stop-color="#EC4899"/>
+      <stop offset="0.5556" stop-color="#06B6D4"/>
+      <stop offset="0.6667" stop-color="#7C3AED"/>
+      <stop offset="0.7778" stop-color="#EC4899"/>
+      <stop offset="0.8889" stop-color="#06B6D4"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <clipPath id="pill"><rect width="800" height="6" rx="3"/></clipPath>
+  </defs>
+  <g clip-path="url(#pill)">
+    <rect width="2400" height="6" fill="url(#flow)">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

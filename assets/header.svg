@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Safia Itouchene - Software Engineer and Fullstack Web Developer">
+  <title>Safia Itouchene - Software Engineer and Fullstack Web Developer</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f0c29"/>
+      <stop offset="0.55" stop-color="#302b63"/>
+      <stop offset="1" stop-color="#24243e"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C4B5FD"/>
+      <stop offset="0.5" stop-color="#F9A8D4"/>
+      <stop offset="1" stop-color="#67E8F9"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="1000" height="280" rx="18"/></clipPath>
+    <filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
+  </defs>
+  <style>
+    .name{font:800 62px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:url(#name);letter-spacing:1px;
+          opacity:0;animation:pop 1.1s .2s cubic-bezier(.2,.8,.2,1) forwards}
+    .role{font:600 23px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#e5e7eb;letter-spacing:2px;
+          opacity:0;animation:rise .9s .8s ease-out forwards}
+    .tags{font:500 16px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#a5b4fc;letter-spacing:3px;
+          opacity:0;animation:rise .9s 1.2s ease-out forwards}
+    @keyframes pop{from{opacity:0;transform:translateY(18px) scale(.96)}to{opacity:1;transform:none}}
+    @keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+    .name,.role,.tags{transform-box:fill-box;transform-origin:center}
+  </style>
+
+  <g clip-path="url(#round)">
+    <rect width="1000" height="280" fill="url(#bg)"/>
+
+    <!-- soft glowing orbs -->
+    <g filter="url(#blur)">
+      <circle cx="170" cy="90" r="70" fill="#7C3AED" opacity=".55">
+        <animate attributeName="cy" values="90;130;90" dur="8s" repeatCount="indefinite"/>
+        <animate attributeName="cx" values="170;210;170" dur="11s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="820" cy="70" r="80" fill="#EC4899" opacity=".4">
+        <animate attributeName="cy" values="70;115;70" dur="9s" repeatCount="indefinite"/>
+        <animate attributeName="cx" values="820;780;820" dur="12s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="520" cy="40" r="60" fill="#06B6D4" opacity=".3">
+        <animate attributeName="cy" values="40;75;40" dur="10s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- twinkling stars -->
+    <g fill="#ffffff">
+      <circle cx="90" cy="48" r="1.8"><animate attributeName="opacity" values="0.15;1;0.15" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="260" cy="30" r="1.4"><animate attributeName="opacity" values="1;0.2;1" dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="380" cy="62" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.6s" begin="0.5s" repeatCount="indefinite"/></circle>
+      <circle cx="610" cy="34" r="1.6"><animate attributeName="opacity" values="1;0.15;1" dur="2.9s" repeatCount="indefinite"/></circle>
+      <circle cx="720" cy="58" r="1.9"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.3s" begin="1s" repeatCount="indefinite"/></circle>
+      <circle cx="905" cy="40" r="1.5"><animate attributeName="opacity" values="1;0.2;1" dur="2.4s" repeatCount="indefinite"/></circle>
+      <circle cx="950" cy="120" r="1.7"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.8s" begin="0.8s" repeatCount="indefinite"/></circle>
+      <circle cx="45" cy="130" r="1.4"><animate attributeName="opacity" values="1;0.2;1" dur="3.1s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- code brackets -->
+    <text x="70" y="165" font-family="Consolas,'Courier New',monospace" font-size="86" fill="#ffffff" opacity=".08">&lt;/&gt;</text>
+    <text x="800" y="170" font-family="Consolas,'Courier New',monospace" font-size="86" fill="#ffffff" opacity=".08">{ }</text>
+
+    <!-- text -->
+    <text class="name" x="500" y="118" text-anchor="middle">Safia Itouchene</text>
+    <text class="role" x="500" y="162" text-anchor="middle">SOFTWARE ENGINEER &amp; FULLSTACK WEB DEVELOPER</text>
+    <text class="tags" x="500" y="196" text-anchor="middle">DATA ANALYSIS  ·  MACHINE LEARNING  ·  AI AUTOMATION</text>
+
+    <!-- waves (period 500px, scrolled seamlessly) -->
+    <path fill="#7C3AED" opacity=".30"
+      d="M0 222 q125 -34 250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 V280 H0 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="9s" repeatCount="indefinite"/>
+    </path>
+    <path fill="#EC4899" opacity=".28"
+      d="M0 236 q125 30 250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 V280 H0 Z">
+      <animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="12s" repeatCount="indefinite"/>
+    </path>
+    <path fill="#06B6D4" opacity=".30"
+      d="M0 252 q125 -22 250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 V280 H0 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>

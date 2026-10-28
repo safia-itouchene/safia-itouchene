@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="995" height="180" viewBox="0 0 995 180" role="img" aria-label="Contribution streak">
+<title>Contribution streak</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#1a1033"/>
+  </linearGradient>
+  <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#7C3AED"/><stop offset="0.5" stop-color="#EC4899"/><stop offset="1" stop-color="#06B6D4"/>
+  </linearGradient>
+</defs>
+<style>
+.t{font:700 17px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#c4b5fd}
+.num{font:700 26px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+.lbl{font:500 12px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#9ca3af}
+.fade{opacity:0;animation:up .6s ease-out forwards}
+@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+.big{font:700 32px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}.lab{font:600 14px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}.sub{font:400 12px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#9ca3af}.ring{stroke-dasharray:263.89;stroke-dashoffset:263.89;animation:draw 1.6s .4s ease-out forwards}@keyframes draw{to{stroke-dashoffset:263.89}}@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}.glow{animation:pulse 2.4s ease-in-out infinite}</style>
+<rect x="1" y="1" width="993" height="178" rx="14" fill="url(#bg)" stroke="url(#bd)" stroke-width="1.5"/>
+<line x1="331.7" y1="30" x2="331.7" y2="150" stroke="#30363d"/>
+<line x1="663.3" y1="30" x2="663.3" y2="150" stroke="#30363d"/>
+<defs><linearGradient id="rg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F472B6"/><stop offset="1" stop-color="#A78BFA"/></linearGradient></defs>
+<g class="fade" style="animation-delay:.1s"><text x="165.8" y="90" text-anchor="middle" class="big" fill="#22D3EE">–</text><text x="165.8" y="146" text-anchor="middle" class="lab" fill="#e6edf3">Total Contributions</text><text x="165.8" y="164" text-anchor="middle" class="sub">Last 12 months</text></g>
+<circle cx="497.5" cy="78" r="42" fill="none" stroke="#30363d" stroke-width="6"/>
+<circle class="ring" cx="497.5" cy="78" r="42" fill="none" stroke="url(#rg)" stroke-width="6" stroke-linecap="round" transform="rotate(-90 497.5 78)"/>
+<g class="fade" style="animation-delay:.3s"><text x="497.5" y="89" text-anchor="middle" class="big" fill="#ffffff">0</text><text x="497.5" y="146" text-anchor="middle" class="lab glow" fill="#F472B6">Current Streak</text><text x="497.5" y="164" text-anchor="middle" class="sub">–</text></g>
+<g class="fade" style="animation-delay:.5s"><text x="829.2" y="90" text-anchor="middle" class="big" fill="#A78BFA">0</text><text x="829.2" y="146" text-anchor="middle" class="lab" fill="#e6edf3">Longest Streak</text><text x="829.2" y="164" text-anchor="middle" class="sub">–</text></g>
+</svg>
