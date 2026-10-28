@@ -76,7 +76,7 @@
 | [**Project name**](https://github.com/safia-itouchene/REPO_NAME) | One sentence about what it does | `React` `Laravel` |
 | [**Project name**](https://github.com/safia-itouchene/REPO_NAME) | One sentence about what it does | `Python` `TensorFlow` |
 -->
-
+<br/>
 <img src="./assets/divider.svg" width="100%" height="6" alt=""/>
 
 
