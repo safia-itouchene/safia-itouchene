@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="170" viewBox="0 0 1000 170" role="img" aria-label="Let's build something together - open to collaborations, freelance work and new projects">
+  <title>Let’s build something together</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f0c29"/>
+      <stop offset="0.55" stop-color="#302b63"/>
+      <stop offset="1" stop-color="#24243e"/>
+    </linearGradient>
+    <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset="0.5" stop-color="#EC4899"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C4B5FD"/>
+      <stop offset="0.55" stop-color="#F9A8D4"/>
+      <stop offset="1" stop-color="#67E8F9"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .title{font:800 36px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:url(#title);
+           opacity:0;animation:rise .9s .2s ease-out forwards}
+    .sub{font:500 17px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#cbd5e1;
+         opacity:0;animation:rise .9s .6s ease-out forwards}
+    .hint{font:600 13px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#a5b4fc;letter-spacing:3px;
+          opacity:0;animation:rise .9s 1s ease-out forwards}
+    @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+    @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+    .mail{animation:bob 3s ease-in-out infinite}
+  </style>
+
+  <rect x="1" y="1" width="998" height="168" rx="18" fill="url(#bg)" stroke="url(#bd)" stroke-width="1.5"/>
+
+  <!-- pulsing rings -->
+  <circle cx="135" cy="85" r="40" fill="none" stroke="#A78BFA" stroke-width="2">
+    <animate attributeName="r" values="40;68" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="135" cy="85" r="40" fill="none" stroke="#F472B6" stroke-width="2">
+    <animate attributeName="r" values="40;68" dur="2.6s" begin="1.3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0" dur="2.6s" begin="1.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="135" cy="85" r="40" fill="#7C3AED"/>
+
+  <!-- envelope -->
+  <g class="mail">
+    <rect x="113" y="70" width="44" height="30" rx="5" fill="none" stroke="#ffffff" stroke-width="2.5"/>
+    <path d="M115 74 L135 89 L155 74" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- text -->
+  <text class="title" x="235" y="78">Let’s build something together</text>
+  <text class="sub" x="235" y="110">Open to collaborations, freelance work and exciting new projects</text>
+  <text class="hint" x="235" y="138">REACH OUT THROUGH THE LINKS BELOW</text>
+</svg>
