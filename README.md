@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/Open%20to-Collaboration-7C3AED?style=for-the-badge" alt="Open to collaboration"/>
 <img src="https://komarev.com/ghpvc/?username=safia-itouchene&label=Profile%20views&color=EC4899&style=for-the-badge" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/safia-itouchene?label=Followers&style=for-the-badge&logo=github&color=06B6D4" alt="GitHub followers"/>
+<br/><br/>
 
 </div>
 
